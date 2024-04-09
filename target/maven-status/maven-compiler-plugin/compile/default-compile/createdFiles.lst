@@ -1,0 +1,11 @@
+hh\tehtava\kirjakauppa\domain\BookRepo.class
+hh\tehtava\kirjakauppa\domain\Category.class
+hh\tehtava\kirjakauppa\domain\UserRepo.class
+hh\tehtava\kirjakauppa\web\BookController.class
+hh\tehtava\kirjakauppa\web\UserDetailService.class
+hh\tehtava\kirjakauppa\domain\Book.class
+hh\tehtava\kirjakauppa\web\CategoryController.class
+hh\tehtava\kirjakauppa\domain\CateRepo.class
+hh\tehtava\kirjakauppa\KirjakauppaApplication.class
+hh\tehtava\kirjakauppa\WebSecurityConfig.class
+hh\tehtava\kirjakauppa\domain\BookUser.class

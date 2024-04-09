@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hh.tehtava.kirjakauppa.JPATests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.839 s -- in hh.tehtava.kirjakauppa.JPATests

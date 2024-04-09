@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>Add a book category:</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="/css/bootstrap.min.css"
+      th:href="@{/css/bootstrap.min.css}"
+    />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="/css/bootstrap.min.css"
+      th:href="@{/css/bootstrap.min.css}"
+    />
+  </head>
+  <body>
+    <h1>Add a book category:</h1>
+    <div>
+      <form
+        th:object="${category}"
+        th:action="@{savecategory}"
+        action="#"
+        method="post"
+      >
+        <div>
+          <label for="category">Category</label>
+          <div>
+            <label for="name">Name</label>
+            <input type="text" id="name" th:field="*{name}" />
+          </div>
+        </div>
+        <input type="submit" value="Submit" class="btn btn-success" />
+        <a th:href="@{/index}" class="btn btn-success">Back to Booklist</a>
+      </form>
+    </div>
+  </body>
+</html>

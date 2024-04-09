@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hh.tehtava.kirjakauppa.KirjakauppaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.897 s -- in hh.tehtava.kirjakauppa.KirjakauppaApplicationTests
