@@ -1,3 +1,4 @@
+
 package hh.tehtava.kirjakauppa;
 
 import static org.assertj.core.api.Assertions.assertThat;
